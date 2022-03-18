@@ -1,0 +1,38 @@
+th {
+    padding: 1.5rem;
+    font-size: large;
+}
+.table {
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.hero {
+    border: 1px solid black;
+    margin: 1em 0;
+    background-color: rgb(223, 76, 76);
+}
+
+.button {
+    background-color: rgb(253, 203, 203);
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin: 1.5rem;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+th {
+    padding: 1.5rem;
+}
+
+td {
+    border: 1px solid black;
+    padding: 1rem;
+    border-collapse: collapse;
+}
+
+
